@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>face-420.jpg</filename>
+	<path>/home/sushantshetty/Desktop/images/face-420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>81</ymin>
+			<xmax>279</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

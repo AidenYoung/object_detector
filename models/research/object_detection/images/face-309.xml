@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>face-309.jpg</filename>
+	<path>/home/sushantshetty/Desktop/images/face-309.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>68</ymin>
+			<xmax>420</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
